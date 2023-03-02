@@ -26,7 +26,7 @@ Investigate the incident, find the insider, and uncover the attack actions.
 ### $\color{#000000}{𝗠𝗘𝗧𝗢𝗗𝗢𝗟𝗢𝗚Í𝗔}$
 Descarga los archivos del reto y obtendras un archivo de texto <br> y dos imágenes . El archivo de texto contiene un enlace a <br> una cuenta de GitHub. 
 
-#### Q1
+#### ➤ Q1
 **File -> Github.txt:** <br>
 **What is the API key the insider added to his GitHub repositories?** 
 
@@ -37,7 +37,7 @@ Nos dirigimos al único repositorio de github creado por la cuenta que nos han p
 Dentro nos encontraremos con la **API Key** 
 >aJFRaLHjMXvYZgLPwiJkroYLGRkNBW
 
-#### Q2
+#### ➤ Q2
 **File -> Github.txt:** <br>
 **What is the plaintext password the insider added to his GitHub repositories?**
 
@@ -47,3 +47,12 @@ En el mismo archivo que antes, nos encontramos con una contraseña en **base64**
 
 para decodificarla yo usaré [Base64 Decode](https://www.base64decode.org/) (podeis usar cualquiera)
 >PicassoBaguette99
+
+#### ➤ 𝗤3
+**File -> Github.txt:** <br>
+**What cryptocurrency mining tool did the insider use?** 
+
+En el github del objetivo buscamos en sus repositorios y encontramos la mining tool que usa.
+
+![imagen](https://user-images.githubusercontent.com/126393691/222417202-8f7a80b2-653c-4a08-942a-f9f295dd9710.png)
+> Xmrig
