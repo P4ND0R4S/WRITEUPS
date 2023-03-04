@@ -74,3 +74,19 @@ Primero hice una búsqueda rapida en google pero no encontre ningún resultado r
 #### ➤ Q7
 **One of Champlain College's Cyber Security Faculty got a bachelor's degree in arts from this <br> Ohioan university. Who was the other faculty member who studied there? (FirstName LastName - two words)**
 
+Hacemos una busqueda en google `champlain college cyber security faculty`. entramos en la página de la universidad y vemos que hay uno que estudio arte en la universidad de Toledo
+
+![imagen](https://user-images.githubusercontent.com/126393691/222891241-7a7567c1-36cf-4994-a9c6-224160b219a4.png)
+
+Comprobamos que la universidad de Toledo está en Ohio. A continuación usaremos Dorks para comprobar que otros profesores han estudiado en la universidad de Toledo `inurl:champlain.edu/academics/our-faculty University of Toledo`. 
+
+![imagen](https://user-images.githubusercontent.com/126393691/222891373-6873c2d9-7e9d-4508-b76d-a5b41c6a2b42.png)
+> Todd Schroeder
+
+#### ➤ Q8
+**In 2019 UVM’s Ichthyology Class Had to Name their fish for class. Can you find out what the last <br> person on the public roster named their fish?**
+
+No es posible completar esta pregunta ya que no se tiene acceso a la web.
+
+#### ➤ Q9
+**Can You Figure Out Which State This Picture Has Been Taken From? See attached photo**
