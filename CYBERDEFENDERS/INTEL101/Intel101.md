@@ -90,3 +90,12 @@ No es posible completar esta pregunta ya que no se tiene acceso a la web.
 
 #### ➤ Q9
 **Can You Figure Out Which State This Picture Has Been Taken From? See attached photo**
+
+Hacemos una búsqueda inversa de la imagen en las distintas webs. Observamos que en bing nos aparece la imágen.
+
+![imagen](https://user-images.githubusercontent.com/126393691/222896313-c13e33c5-3358-4c6f-80f9-e72c73caab76.png)
+
+pero no obtenemos mucha información. Vemos que la imágen de al lado se aprece tambien y menciona algo de Dinosaur Land, lo buscamos en google, miramos fotos del parque y encontramos la imágen
+
+![imagen](https://user-images.githubusercontent.com/126393691/222896480-6c6d3f78-b3c5-4c1b-bbed-4f7a4efc118f.png)
+>Virginia
