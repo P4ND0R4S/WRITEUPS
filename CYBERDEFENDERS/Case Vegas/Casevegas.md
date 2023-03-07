@@ -23,3 +23,9 @@ During the investigation, your attempt to find the suspect was recorded in the i
 #
 
 ### $\color{#000000}{𝗠𝗘𝗧𝗢𝗗𝗢𝗟𝗢𝗚Í𝗔}$
+Descargamos el reto y reproducimos el video.
+
+#### ➤ Q1
+**File->Vehicle-number.png:<br>
+At which minute of the video was the vehicle observed?**
+
