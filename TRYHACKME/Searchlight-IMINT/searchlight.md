@@ -93,3 +93,73 @@ Buscamos el Aeropuerto en google y nos aparece donde se encuentra.
 #### Task5 | ✾ Coffee and a light lunch ✾ |
 **Which city is this coffee shop located in?**
 
+Buscamos en google el nombre de la tienda que se ve a lo lejos en la imágen, nos metemos en google imágenes y las primeras dos fotos son del lugar.Entramos en los articulos, y vemos el nombre de la ciudad
+
+![imagen](https://user-images.githubusercontent.com/126393691/223686786-eae8d0e1-6382-40db-807b-ed3389b9bb01.png)
+> sl{Blairgowrie}
+
+
+**Which street is this coffee shop located in?**
+
+Nos metemos en google maps y buscamos el lugar donde se hizo la imágen y vemos que el cafe se llama the wee cofee shop. Lo buscamos en google y nos dice la calle.
+
+![imagen](https://user-images.githubusercontent.com/126393691/223688442-6614d8ff-5717-4933-bdd1-eac57343bc53.png)
+> sl{Allan street}
+
+**What is their phone number?**
+
+Obtenemos la respuesta con la búsqueda anterior.
+
+![imagen](https://user-images.githubusercontent.com/126393691/223688842-a5f732cd-9868-4b0e-8ecc-edf3c27ed4a3.png)
+> sl{+44 7878 839128}
+
+**What is their email address?**
+
+Miramos en la página de facebook del establecimiento.
+
+![imagen](https://user-images.githubusercontent.com/126393691/223697894-b987dbd4-cdfa-4d88-abc1-4edaa688e89a.png)
+> sl{theweecoffeeshop@aol.com}
+
+**What is the surname of the owners?**
+
+Buscamos en google y el primer resultado que aparece nos dice su apellido.
+
+![imagen](https://user-images.githubusercontent.com/126393691/223698655-56039b7e-752d-473a-a879-1f34c4326b5a.png)
+> sl{Cochrane}
+
+
+#### Task6 | ✾ Reverse your thinking  ✾ |
+**Which restaurant was this picture taken at?**
+
+Hacemos una búsqueda inversa de la imágen y nos aparecen imagenes muy similares
+
+![imagen](https://user-images.githubusercontent.com/126393691/223699640-4995f425-24b5-46b5-80d7-883162ef8d51.png)
+> sl{Katz's Deli}
+
+**What is the name of the Bon Appétit editor that worked 24 hours at this restaurant?**
+
+Buscamos en google rapidamente y el primer resultado que nos muestra nos dice el nombre.
+
+![imagen](https://user-images.githubusercontent.com/126393691/223700114-500cdc1f-304c-4b82-81c9-5f9d2f75fc12.png)
+> sl{Andrew Knowlton}
+
+#### Task7 | ✾ Locate this sculpture ✾ |
+**What is the name of this statue?**
+
+Buscamos en google la estatua por si la encontramos, si nos vamos a google imagenes la encontraremos
+
+![imagen](https://user-images.githubusercontent.com/126393691/223701346-ff9456bf-f34c-4acc-a5f9-e686e83f44f8.png)
+
+A continuación entramos en el enlace de la página y vemos que es una estatua de Oslo,Noruega asi que la buscamos en google.
+
+![imagen](https://user-images.githubusercontent.com/126393691/223702379-e264f09e-72e5-494a-90ab-385af9860cf5.png)
+> sl{Rudolph the Chrome Nosed Reindeer}
+
+**Who took this image?**
+
+Buscamos en google, y encontramos una página [Visit Oslo](https://www.visitoslo.com/en/articles/outdoor-sculptures-in-oslo/) que tiene todas las esculturas de Oslo e información.
+
+![imagen](https://user-images.githubusercontent.com/126393691/223704113-2378d751-06e1-449e-9d97-662c8242760c.png)
+> sl{Kjersti Stensrud}
+
+#### Task8 | ✾ ...and justice for all ✾ |
