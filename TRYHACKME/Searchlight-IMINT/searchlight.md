@@ -163,3 +163,25 @@ Buscamos en google, y encontramos una página [Visit Oslo](https://www.visitoslo
 > sl{Kjersti Stensrud}
 
 #### Task8 | ✾ ...and justice for all ✾ |
+**What is the name of the character that the statue depicts?**
+
+Hacemos una búsqueda inversa de la imágen, encontrando la wikipedia de la misma
+
+![imagen](https://user-images.githubusercontent.com/126393691/223704818-bd0a7d93-8e0f-4fd8-8d31-168291e0a4e4.png)
+> sl{Lady justice}
+
+**where is this statue located?**
+
+Buscando encontramos que se trata de la estatua localizada en Albert V. Bryan United States Courthouse lo buscamos en google para ver su localización.
+
+![imagen](https://user-images.githubusercontent.com/126393691/223707870-55ad50a5-4a11-4116-b3d3-132acf02b9cd.png)
+> sl{Alexandria, Virginia}
+
+**What is the name of the building opposite from this statue?**
+
+Buscamos en google maps la localización y vemos que enfrente se encuentra un hotel. 
+![imagen](https://user-images.githubusercontent.com/126393691/223709167-7a67cb7c-56e4-4370-a3ff-e93ec5651204.png)
+> sl{The Westin Alexandria Old Town}
+
+#### Task9 | ✾ The view from my hotel room ✾ | 
+
