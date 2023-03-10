@@ -184,4 +184,13 @@ Buscamos en google maps la localización y vemos que enfrente se encuentra un ho
 > sl{The Westin Alexandria Old Town}
 
 #### Task9 | ✾ The view from my hotel room ✾ | 
+**What is the name of the hotel that my friend stayed in a few years ago?**
 
+Si observamos el video sabemos que estamos en singapur por el hotel tan famoso **Marina Bay Sands**, una vez sabemos esto buscamos la estructura con el nombre riverside point que sale en el video y nos ubicamos ahi en google maps.
+
+![imagen](https://user-images.githubusercontent.com/126393691/224279695-79ed895e-9316-4e96-90a4-e493ba4636eb.png)
+
+Como podemos Observar el video esta grabado a la otra orilla del rio donde nos encontramos, asi que buscamos alojamientos en esa zona. Actualmente el hotel ya no existe, pero si buscais un poco encontrareis que ahi había un hotel llamado Novotel Singapore Clarke Quay, que es donde se alojaban.
+
+![imagen](https://user-images.githubusercontent.com/126393691/224282575-249d925f-dea8-4370-84e5-14dd312e6388.png)
+> sl{Novotel Singapore Clarke Quay}
